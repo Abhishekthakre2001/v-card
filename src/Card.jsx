@@ -34,7 +34,7 @@ export default function Card() {
                                     <i className="fas fa-phone" /> CALL
                                 </button>
                             </a>
-                            <a href="mailto:abhishekthakare060@gmail.com">
+                            <a href="mailto:abhishepkthakre@gmail.com">
                                 <button className="email">
                                     <i className="fas fa-envelope" /> EMAIL
                                 </button>
@@ -59,13 +59,13 @@ export default function Card() {
                             </a>
                             <hr />
                             <a
-                                href="mailto:abhishekthakare060@gmail.com"
+                                href="mailto:abhishepkthakre@gmail.com"
                                 style={{ textDecoration: "none" }}
                             >
                                 <div className="mycard">
                                     <i className="fas fa-envelope" style={{ marginTop: "30px", padding: "0px 20px", fontSize:"16px" }} />
                                     <div className="mycard-data">
-                                        <p style={{ color: "black" }}> abhishekthakre060@gmail.com</p>
+                                        <p style={{ color: "black" }}> abhishepkthakre@gmail.com</p>
                                         <p>E-mail</p>
                                     </div>
                                 </div>
