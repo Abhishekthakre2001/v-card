@@ -59,13 +59,13 @@ export default function Card() {
                             </a>
                             <hr />
                             <a
-                                href="mailto:abhishepkthakre@gmail.com"
+                                href="mailto:abhishekkthakare@gmail.com"
                                 style={{ textDecoration: "none" }}
                             >
                                 <div className="mycard">
                                     <i className="fas fa-envelope" style={{ marginTop: "30px", padding: "0px 20px", fontSize:"16px" }} />
                                     <div className="mycard-data">
-                                        <p style={{ color: "black" }}> abhishepkthakre@gmail.com</p>
+                                        <p style={{ color: "black" }}> abhishekkthakare@gmail.com</p>
                                         <p>E-mail</p>
                                     </div>
                                 </div>
